@@ -5,22 +5,22 @@ module.exports = {
     VERSION: 'V 1.0.0', // bot version
     SESSION_ID: process.env.SESSION_ID || 'inrl~P4JwUP+n1OIc41o30FQw6hMtel5bYyM8CVYF',//enter your ssid to run bot
     MONGO_URL : process.env.MONGO_URI,//mongo url;
-    PASSWORD: process.env.PASSWORD || 'techobot', //set passworkd to use 18+ plugins pss = inrl-bot~md
+    PASSWORD: process.env.PASSWORD || 'moonlight', //set passworkd to use 18+ plugins pss = inrl-bot~md
     REACT : process.env.REACT || 'true', //to react  almsg automaticaly
     WARNCOUND : process.env.WARNCOUND || "5", // to kick a person by war cound
-    GROUP_CHAT : process.env.GROUP_CHAT || 'false', // to set chat bot on grp
-    FREE_TXT : process.env.FREE_TXT || 'techobotmd',//nothing😉
+    GROUP_CHAT : process.env.GROUP_CHAT || 'true', // to set chat bot on grp
+    FREE_TXT : process.env.FREE_TXT || 'moonlightbotmd',//nothing😉
     U_STATUS: process.env.U_STATUS || 'false', //to update profilesatus automaticily
-    ALIVETXT: process.env.ALIVETXT || 'TECHO-BOT-MD', //nothing😛
-    ALIVE_DATA : process.env.ALIVE_DATA || "https://i.imgur.com/DyLAuEh.jpg,Hi There Im Online Now,alivebButtenText1,aliveTextButten2",// coustamized alive bottun😛
+    ALIVETXT: process.env.ALIVETXT || 'Queen - Moonlight - Bot', //nothing😛
+    ALIVE_DATA : process.env.ALIVE_DATA || "https://i.ibb.co/bm9ZJKG/20230208-080442.jpg,Hi There Im Online Now,Senuwa,Ashen",// coustamized alive bottun😛
     READ_CHAT : process.env.READ_CHAT || "true", //values are true and false only if true read all chats
-    BOT_INFO : process.env.BOT_INFO || "TECHO-BOT-MD,INRL,https://i.imgur.com/DyLAuEh.jpg", // about the bot as img number for menu such plugins
-    BGMBOT : process.env.BGMBOT || 'false', //to set bot as bgm bot
+    BOT_INFO : process.env.BOT_INFO || "Queen - Moonlight - Bot,Mr . Senuwa,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg", // about the bot as img number for menu such plugins
+    BGMBOT : process.env.BGMBOT || 'true', //to set bot as bgm bot
     WORKTYPE: process.env.WORKTYPE || 'public', //bot working mode
     PM_BLOCK : process.env.PM_BLOCK || "true", // to block all pm msg expt creaters as sudo
     PERFIX : process.env.PERFIX || ".", // prfix of bot 
     WELCOME_SET : process.env.WELCOME_SET || "true", //now thi scmd is not creted creating
-    EXIT_MSG : process.env.EXIT_MSG || "true", //to use kick or left msg
+    EXIT_MSG : process.env.EXIT_MSG || "false", //to use kick or left msg
     CALL_BLOCK : process.env.CALL_BLOCK || "true", // to block pm calling numbers expt sudo
     STATUS_VIEW : process.env.STATUS_VIEW || 'false',//it read your status automaticaly 
     MENSION: {
@@ -31,7 +31,7 @@ module.exports = {
     LANG : (process.env.LANGUAG || 'EN').toLowerCase(), //values are ml, en only
     OWNER : process.env.OWNER || "94753420144",// bot owner
     BRANCH: 'master',//nothing😉
-    PROFILE_STATUS : process.env.PROFILE_STATUS || "💗 AUTO MATIC BIO BY TECHO - BOT - MD",// profile status updating value
+    PROFILE_STATUS : process.env.PROFILE_STATUS || "💗 AUTO MATIC BIO BY QUEEN - MOONLIGHT - BOT - MD 💗",// profile status updating value
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
         API_KEY: process.env.HEROKU_API_KEY || '',
@@ -44,14 +44,14 @@ module.exports = {
     IS_PRESENCE : process.env.IS_PRESENCE || "false",//nothing 😛
     CHATBOT : process.env.CHATBOT || 'false',//to chat bot on bith grp and pm
     FOOTER : process.env.FOOTER || "TECHO - MD",//footers of bottun msg
-    AUDIO_DATA : process.env.AUDIO_DATA || "TECHO, TECHO,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//audio metadata
-    STICKER_DATA: process.env.STICKER_DATA || "TECHO, TECHO,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//sticker metedata
+    AUDIO_DATA : process.env.AUDIO_DATA || "Queen - Moonlight - Bot, Mr . Senuwa,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//audio metadata
+    STICKER_DATA: process.env.STICKER_DATA || "Queen - Moonlight - Bot, Mr . Senuwa,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//sticker metedata
     INSTAGRAM : process.env.INSTAGRAM || "https://instagram.com/",//your ig url
-    PACKNAME : process.env.PACKNAME || "TECHO - BOT - MD",// packname 
+    PACKNAME : process.env.PACKNAME || "Queen - Moonlight - Bot",// packname 
     GIT : process.env.GIT || "https://github.com/hightech-lab",//github url
-    WEB : process.env.WEB || "Coming Soon",//your website url
+    WEB : process.env.WEB || "https://github.com/hightech-lab",//your website url
     YT : process.env.YT || "https://youtube.com/@hightechlab2022",//your yt url
-    CAPTION : process.env.CAPTION || "_CODED BY TECHO - BOT - MD_",//captions of img and videos
+    CAPTION : process.env.CAPTION || "*_CODED BY Queen - Moonlight - Bot_*",//captions of img and videos
     SUDO: process.env.SUDO || "94753420144",// sudo numbers to manage bot it will been add more by,
     VIDEO : "COMING SOON",//turtorial video to watch how to use bot
     WAGRP : process.env.WAGRP || 'https://chat.whatsapp.com/FtNpa9CPTFxE7NXofQqdjW',//your wa group url
