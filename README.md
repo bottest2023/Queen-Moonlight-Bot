@@ -1,37 +1,36 @@
 
 # *❤🥵 Queen - Moonlight - whatsapp Bot 🥵❤*
+*A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
+
 <div align="center">
   
-  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+QUEEN+MOONLIGHT+BOT+REPO)](https://chat.whatsapp.com/FtNpa9CPTFxE7NXofQqdjW)
+  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%11111111&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+QUEEN+MOONLIGHT+BOT+REPO)](https://chat.whatsapp.com/FtNpa9CPTFxE7NXofQqdjW)
+
+<p align="center">
+<img src="https://i.ibb.co/bm9ZJKG/20230208-080442.jpg" alt="animated" width="300" height="300" />
+</p>
+
 </div>
+
+##
+
+**Queen Moonlight Bot** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!❤💦
 
   <div align="left">
    
 ## `⨷ FORK REPO`
 
-- To use This bot you need fork this repository<br>
-
-[Click Here To Fork](https://github.com/inrl-official/inrl-bot-md/fork)
+- To use This bot you need fork this repository 👉 [Click Here To Fork](https://github.com/hightech-lab/Queen-Moonlight-Bot/fork)
 
 ## `⨷ SCAN QR`
 
-- To use This bot you need to scan the qr code<br>
-
-[Click Here To Scan](https://frendpage.vercel.app/)
+- To use This bot you need to scan the qr code 👉 [Click Here To Scan](https://frendpage.vercel.app/)
 
 ## `⨷ Deploy To Uffizzi` 
 
 ```bash
 first you fork the repo and edit config.js!, add session id & your credits!
 ```
-
-- [x] Login <details><summary>example</summary><img src="https://i.ibb.co/Y8n1hnk/7f6c49deeb42.jpg"></details>
-- [x] Select Repo<details><summary>example</summary><img src="https://i.ibb.co/42ppV9c/70fa4e474d5e.jpg"></details>
-- [x] configur <details><summary>example</summary><img src="https://i.ibb.co/c26hpgc/0fc10710ae83.jpg"></details>
-- [x] Deploy <details><summary>example</summary><img src="https://i.ibb.co/RydYv7s/881ac813427c.jpg"></details>
-- [x] Get app <details><summary>example</summary><img src="https://i.ibb.co/wwZG0YM/52300009ed1c.jpg"></details>
-- [x] Open app <details><summary>example</summary><img src="https://i.ibb.co/J7GTZq5/f5d7a68c7a2f.jpg"></details>
-- [x] Viwe Logs <details><summary>example</summary><img src="https://i.ibb.co/2yQTJPJ/7535df5f1de7.jpg"></details>
 
   [Click here to deploy on Uffizzi](https://app.uffizzi.com/projects)
 <br>
@@ -45,41 +44,29 @@ first you fork the repo and edit config.js!, add session id & your credits!
 ## `⨷ Deploy To Koyeb`  
   
 
-- 👉 if You have no Accound In Koyeb Create an Accound By clicking here  [Create An Accound](https://app.koyeb.com/)<br>
+- if You have no Accound In Koyeb Create an Accound By clicking here  [Create An Accound](https://app.koyeb.com/)<br>
 
-  [Click here to deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/inrlwabot/inrl-bot:latest&env[SESSION_ID]&env[WORKTYPE]=privet&env[U_STATUS]=false&env[MENSION_TEXT]=inrl-md,edit%20this%20and%20set%20your%20data,%20https://chat.whatsapp.com/CUJuk1xPEpR8av9h7DDGNO&env[BLOCK_CHAT]=%20jid%20as%20want%20to%20block&env[REACT]=false&env[ALIVE_DATA]=https://i.imgur.com/DyLAuEh.jpg,aliveText,alivebButtenText1,aliveTextButten2&env[CALL_BLOCK]=true&env[PM_BLOCK]=false&env[PERFIX]=.&env[PROFILE_STATUS]=%F0%9F%92%97&env[SUDO]&env[STATUS_VIEW]=true&env[WARNCOUND]=5&env[BOT_INFO]=INRL-BOT-MD,INRL,https://i.imgur.com/DyLAuEh.jpg&env[AUTO_CHAT_GRP]=false&env[AUTO_CHAT_PM]=false&env[CHATBOT]=false&env[OWNER]=917593919575&env[LANG]=EN&env[BGMBOT]=false&env[PASSWORD]=inrl-bot~md&env[READ_CHAT]=false&env[FOOTER]=%C9%AA%C9%B4%CA%80%CA%9F&env[CAPTION]=_created%20by%20inrl-bot_&env[AUDIO_DATA]=inrl,inrl,https://i.imgur.com/DyLAuEh.jpg&env[STICKER_DATA]=inrl,inrl,https://i.imgur.com/DyLAuEh.jpg&name=inrl-bot-md&env[KOYEB_NAME]=inrl-official)
+👉  [Click here to deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/inrlwabot/inrl-bot:latest&env[SESSION_ID]&env[WORKTYPE]=privet&env[U_STATUS]=false&env[MENSION_TEXT]=inrl-md,edit%20this%20and%20set%20your%20data,%20https://chat.whatsapp.com/CUJuk1xPEpR8av9h7DDGNO&env[BLOCK_CHAT]=%20jid%20as%20want%20to%20block&env[REACT]=false&env[ALIVE_DATA]=https://i.imgur.com/DyLAuEh.jpg,aliveText,alivebButtenText1,aliveTextButten2&env[CALL_BLOCK]=true&env[PM_BLOCK]=false&env[PERFIX]=.&env[PROFILE_STATUS]=%F0%9F%92%97&env[SUDO]&env[STATUS_VIEW]=true&env[WARNCOUND]=5&env[BOT_INFO]=INRL-BOT-MD,INRL,https://i.imgur.com/DyLAuEh.jpg&env[AUTO_CHAT_GRP]=false&env[AUTO_CHAT_PM]=false&env[CHATBOT]=false&env[OWNER]=917593919575&env[LANG]=EN&env[BGMBOT]=false&env[PASSWORD]=inrl-bot~md&env[READ_CHAT]=false&env[FOOTER]=%C9%AA%C9%B4%CA%80%CA%9F&env[CAPTION]=_created%20by%20inrl-bot_&env[AUDIO_DATA]=inrl,inrl,https://i.imgur.com/DyLAuEh.jpg&env[STICKER_DATA]=inrl,inrl,https://i.imgur.com/DyLAuEh.jpg&name=inrl-bot-md&env[KOYEB_NAME]=inrl-official)
 <br>
 
-## `⨷ Deploy To Termux` 
+### 💦 Visit our official Queen Moonlight Bot v 1.0.0 [Multi-Device] website for deploy instructions
 
-- 👉 setup the below cmd at first<br>
+**[» Official Website](https://github.com/hightech-lab)**
 
-```bash
-termux-setup-storage
-```
+### 💦 You can join our Beta Testing WhatsApp Group by this invite link
 
-- 👉 then copy all cmds from below<br><br>
+**[» Join beta test group](https://chat.whatsapp.com/FtNpa9CPTFxE7NXofQqdjW)**
 
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install python
-pkg install python2
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone Your Forked Github Url
-cd inrl-bot-md
-npm i
-npm start
-```
 
-</div>
+## ❤🥵 Queen Moonlight Bot Team - High Tech Lab *[ Since 2021 - 2022 ]*
 
-<div align="left">
-  
+<a href="https://wa.me/+94753420144"><img src="https://i.ibb.co/Zc5WGqL/IMG-20220726-WA0113-1.jpg" width=200 height=200></a>
+
+**[Senura Jayasingha](https://github.com/hightech-lab)**</br>Founder & Developer</br>*[Mr Techo]*
+
+##
+
+
+
+
+
