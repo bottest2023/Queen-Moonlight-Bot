@@ -6,7 +6,7 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || 'inrl~P4JwUP+n1OIc41o30FQw6hMtel5bYyM8CVYF',//enter your ssid to run bot
     MONGO_URL : process.env.MONGO_URI,//mongo url;
     PASSWORD: process.env.PASSWORD || 'moonlight', //set passworkd to use 18+ plugins pss = inrl-bot~md
-    REACT : process.env.REACT || 'true', //to react  almsg automaticaly
+    REACT : process.env.REACT || 'false', //to react  almsg automaticaly
     WARNCOUND : process.env.WARNCOUND || "5", // to kick a person by war cound
     GROUP_CHAT : process.env.GROUP_CHAT || 'true', // to set chat bot on grp
     FREE_TXT : process.env.FREE_TXT || 'moonlightbotmd',//nothing😉
