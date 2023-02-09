@@ -43,7 +43,7 @@ module.exports = {
     BOT_PRESENCE : process.env.BOT_PRESENCE || "recording",//bot presence
     IS_PRESENCE : process.env.IS_PRESENCE || "false",//nothing 😛
     CHATBOT : process.env.CHATBOT || 'false',//to chat bot on bith grp and pm
-    FOOTER : process.env.FOOTER || "TECHO - MD",//footers of bottun msg
+    FOOTER : process.env.FOOTER || "Queen - Moonlight - Bot",//footers of bottun msg
     AUDIO_DATA : process.env.AUDIO_DATA || "Queen - Moonlight - Bot, Mr . Senuwa,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//audio metadata
     STICKER_DATA: process.env.STICKER_DATA || "Queen - Moonlight - Bot, Mr . Senuwa,https://i.ibb.co/bm9ZJKG/20230208-080442.jpg",//sticker metedata
     INSTAGRAM : process.env.INSTAGRAM || "https://instagram.com/",//your ig url
